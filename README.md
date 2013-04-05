@@ -9,7 +9,7 @@ Uma tradução do livro “A Byte of Python” de Swaroop C H.
 
 ## Sumário
 
-1. Introdução
+1. Introdução:
 	- O que é Python
 	- Características
 
