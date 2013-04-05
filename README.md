@@ -3,6 +3,10 @@ A Byte of Python
 
 Uma tradução do livro “A Byte of Python” de Swaroop C H.
 
+* Tradução feita por Samuel Dias Neto (http://www.samueldiasneto.com/)
+* Adaptação ao GitHub Franklin Javier [@franklinjavier](http://twitter.com/franklinjavier), [github](https://github.com/franklinjavier)
+
+
 ## Sumário
 
 1. Introdução:
