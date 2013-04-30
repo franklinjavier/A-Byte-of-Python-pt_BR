@@ -2,7 +2,7 @@
 
 ## O que é Python
 
-De acordo com seu criador, Guido van Rossum:
+De acordo com seu criador, Guido van Rossum::
 
 “ Python é uma linguagem de programação poderosa e fácil de aprender. Ela possui estruturas de dados de alto nível e uma simples mas eficiente abordagem da programação orientada a objetos. Sua elegante sintaxe e tipagem dinâmica juntamente com seu interpretador nativo fazem dela a linguagem ideal para scripting e desenvolvimento rápido de aplicações em diversas áreas sob várias plataformas.”
 
